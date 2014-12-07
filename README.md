@@ -1,8 +1,8 @@
-# Poker Enlighter CLI Interface
+# Poker Enlighter CLI
 
 ## Description
 
-**Poker Enlighter CLI Interface** is a command-line interface that sits on top of **Poker Enlighter Simulator**.
+**Poker Enlighter CLI** is a command-line interface that sits on top of **Poker Enlighter Simulator**.
 
 This allows accessing and using the simulation functionality via the command-line.
 
@@ -14,7 +14,7 @@ You can find everything about this project on its website: http://pokerenlighter
 
 ## License
 
-Poker Enlighter CLI UI is published under the LGPL v2.1 license, a copy of which is present in the project root.
+Poker Enlighter CLI is published under the LGPL v2.1 license, a copy of which is present in the project root.
 
 ## Contributions
 
